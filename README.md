@@ -15,6 +15,7 @@
 ###В процессе тестирования использовались:
 
 [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+
 [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 ###В качестве тестовых данных использовались данные [Руководства использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
@@ -37,4 +38,5 @@ c2bc778a-1cb9-46c6-b435-0489649d2a42
 
 ##Тестирование производилось в следующем окружении:
 ОС Windows 10 х 64
+
 версия Java "11.0.9.1" 2020-11-04
