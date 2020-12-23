@@ -1,24 +1,24 @@
-## Отчёт о тестировании KeyValidator
+# Отчёт о тестировании KeyValidator
 
-#### Краткое описание
+## Краткое описание
 
 17.12.2020 - 17.12.2020 было проведено функциональное тестирование приложения KeyValidator.
 
 На тестирование затрачено: 15 мин
 
-#### В результате тестирования выявлены следующие дефекты:
+В результате тестирования выявлены следующие дефекты:
 
 [ссылка на описание дефекта](https://github.com/AnastMast/Java1.1/issues/1)
 
-#### Описание процесса тестирования
+## Описание процесса тестирования
 
-#### В процессе тестирования использовались:
+В процессе тестирования использовались:
 
 [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 
 [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
-#### В качестве тестовых данных использовались данные [Руководства использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
+В качестве тестовых данных использовались данные [Руководства использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 Валидные ключи:
 
@@ -36,7 +36,7 @@ b6d53250-f07e-4352-a293-6102ddf7f1ca
 c2bc778a-1cb9-46c6-b435-0489649d2a42   
 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 
 
-#### Тестирование производилось в следующем окружении:
+Тестирование производилось в следующем окружении:
 
-ОС Windows 10 х 64
-версия Java "11.0.9.1" 2020-11-04
+ОС Windows 10
+версия Java "11.0.9.1"
